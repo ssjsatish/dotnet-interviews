@@ -12,6 +12,7 @@ namespace SignalR
         {
             Console.WriteLine("First Class {0}", args[0]);
         }
+        
         static int Main(int a=5)
         {
             Console.WriteLine("Ha HA {0}", a);
