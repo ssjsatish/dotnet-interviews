@@ -18,3 +18,4 @@ List of top 100 C# .Net interview questions and answers are coming soon with cod
 17. What is new keyword?
 18. What is JIT?
 19. FromURI vs FromBody .net core difference?
+20. What is CLS?
