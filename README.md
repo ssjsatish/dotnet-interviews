@@ -17,3 +17,4 @@ List of top 100 C# .Net interview questions and answers are coming soon with cod
 16. How do you make relations in entity framework using DB first and Code first approach?
 17. What is new keyword?
 18. What is JIT?
+19. FromURI vs FromBody .net core difference?
