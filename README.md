@@ -15,6 +15,8 @@ List of top 100 C# .Net interview questions and answers are coming soon with cod
 14. what is SOLID principle. how do you extend a class without inheritance
 15. Explain dependency injection.
 16. How do you make relations in entity framework using DB first and Code first approach?
-17. What is new keyword? What happens when you do new Something()?
+17. What is new keyword?
 18. What is JIT?
-19. 
+19. FromURI vs FromBody .net core difference?
+20. What is CLS?
+21. How do you ensure a solution is a clould ready solution?
