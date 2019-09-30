@@ -20,3 +20,4 @@ List of top 100 C# .Net interview questions and answers are coming soon with cod
 19. FromURI vs FromBody .net core difference?
 20. What is CLS?
 21. How do you ensure a solution is a clould ready solution?
+
